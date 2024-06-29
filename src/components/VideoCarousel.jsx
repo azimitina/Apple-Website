@@ -93,10 +93,12 @@ const VideoCarousel = () => {
       }
 
       const animUpdate = () => {
-        anim.progress(
-          videoRef.current[videoId].currentTime /
-            hightlightsSlides[videoId].videoDuration
-        );
+        if (videoRef.current && videoRef.current[videoId]) {
+          anim.progress(
+            videoRef.current[videoId].currentTime /
+              hightlightsSlides[videoId].videoDuration
+          );
+        }
       };
 
       if (isPlaying) {
