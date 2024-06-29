@@ -11,6 +11,7 @@ This is a replica of Apple's iPhone 15 Pro website using React.js and TailwindCS
 - GSAP (Greensock)
 - Vite
 - Tailwind CSS
+- Sentry (Application Performance Monitoring & Error Tracking)
 
 ## <a name="features">Features</a>
 
