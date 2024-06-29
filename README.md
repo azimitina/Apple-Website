@@ -2,6 +2,10 @@
 
 This is a replica of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
 
+
+## You can view the live version of the project hosted on Vercel [iPhone 15 Pro](https://apple-website-mocha.vercel.app/) 🚀.
+
+
 ## Tech Stack
 
 - React.js
@@ -12,6 +16,14 @@ This is a replica of Apple's iPhone 15 Pro website using React.js and TailwindCS
 - Vite
 - Tailwind CSS
 - Sentry (Application Performance Monitoring & Error Tracking)
+
+## Preview 🎥
+
+
+
+https://github.com/azimitina/Apple-Website/assets/20149104/a14519ee-f7eb-4e29-863c-55d8c72f5153
+
+
 
 ## <a name="features">Features</a>
 
